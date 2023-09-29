@@ -4,4 +4,4 @@
 >
 >Para rodar esse projeto na sua maquina, por favor digite:
 >
->NPM install ....
+>Nodeapp.JS
